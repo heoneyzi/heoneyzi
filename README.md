@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://heoneyzi.github.io"><img src="assets/profile-wave.gif?v=cloud-dancer" width="100%" alt="Jiheon Kang · 강지헌 — Biomedical AI, Electrical &amp; Electronic Engineering, Yonsei University. Beyond artificial tasks, toward the rules of nature. Visit my research website: heoneyzi.github.io."></a>
+<a href="https://heoneyzi.github.io"><img src="https://raw.githubusercontent.com/heoneyzi/heoneyzi/c6d5c6e7123b2ccc95a1f5008ad789aa7553497c/assets/profile-wave.gif" width="100%" alt="Jiheon Kang · 강지헌 — Biomedical AI, Electrical &amp; Electronic Engineering, Yonsei University. Beyond artificial tasks, toward the rules of nature. Visit my research website: heoneyzi.github.io."></a>
 
 📬 [Email](mailto:danieljiheon@yonsei.ac.kr) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/jiheonkang) &nbsp;·&nbsp; 📄 [CV](https://heoneyzi.github.io/Jiheon_Kang_CV.pdf)
 
