@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://heoneyzi.github.io"><img src="assets/website.svg" width="460" alt="Visit my research website — heoneyzi.github.io"></a>
+<a href="https://heoneyzi.github.io"><img src="assets/website-wave.gif" width="720" alt="Visit my research website — heoneyzi.github.io"></a>
 
 <sub>Papers, projects, study notes and CV — all on the website.</sub>
 
