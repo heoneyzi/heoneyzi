@@ -1,5 +1,14 @@
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/heoneyzi/Medical"><b>01 · Medical</b></a><br><sub>Biomedical AI research</sub></td>
+<td align="center" width="25%"><a href="https://github.com/heoneyzi/Paper"><b>02 · Paper</b></a><br><sub>Papers, methods & code</sub></td>
+<td align="center" width="25%"><a href="https://github.com/heoneyzi/Study"><b>03 · Study</b></a><br><sub>Reading & experiments</sub></td>
+<td align="center" width="25%"><a href="https://github.com/heoneyzi/Deep_Daiv"><b>04 · Deep_Daiv</b></a><br><sub>Projects & writing</sub></td>
+</tr>
+</table>
+
 <a href="https://heoneyzi.github.io/"><img src="https://heoneyzi.github.io/assets/og.png" alt="Jiheon Kang — Beyond artificial tasks, toward the rules of nature." width="100%"></a>
 
 **Biomedical AI · Electrical & Electronic Engineering, Yonsei University**
